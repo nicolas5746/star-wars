@@ -1,0 +1,25 @@
+Sitemap: https://swapi.wuaze.com/sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-Image
+Disallow:
+User-agent: AdsBot-Google
+Disallow:
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: Bingbot
+Disallow:
+User-agent: Slurp
+Disallow:
+User-agent: Yahoo-MMCrawler
+Disallow:
+User-agent: Baiduspider
+Disallow:
+User-agent: Yandexbot
+Disallow:
+User-agent: MSNBot
+Disallow: 
+
+User-agent: *
+Disallow: /
